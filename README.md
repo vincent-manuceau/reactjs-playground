@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# ReactJS Simple Components : Modal, Accordion and Responsive Navbar 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
